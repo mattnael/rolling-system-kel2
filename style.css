@@ -1,0 +1,20 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url('./Asset/background.png');
+    background-size: cover;
+}
+
+.container {
+    background-color: darkslategray;
+    padding: 1.5rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.75cm;
+    color: aliceblue;
+}
